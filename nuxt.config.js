@@ -38,8 +38,8 @@ export default {
 
   googleFonts: {
     families: {
-      'Neonderthaw': true,
-    },
+      Neonderthaw: true
+    }
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
