@@ -1,5 +1,6 @@
-# base-app
+# Retro Web Application 
 
+This repository contains source code for various old web site clone made with TailwindCSS. 
 ## Build Setup
 
 ```bash
@@ -17,53 +18,10 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+|  **Apple 1998** |  **google 1999**  | **microsoft 1996** | 
+| :---: | :---: | :---: |
+|  <img width="300" alt="スクリーンショット 2022-03-28 20 33 38" src="https://user-images.githubusercontent.com/33516104/160389409-8e1e8343-ddfb-4e52-a04c-07f238604507.png"> |  <img width="300" alt="スクリーンショット 2022-03-28 20 35 50" src="https://user-images.githubusercontent.com/33516104/160389723-ca3a8172-d7a4-4c05-aaf0-6bd432277987.png">  | <img width="300" alt="スクリーンショット 2022-03-28 20 38 00" src="https://user-images.githubusercontent.com/33516104/160390047-a8aae9ce-4916-486c-adec-2619fbb6eef6.png"> |
+| [Source code](https://github.com/lilisako/retro-web-ui/blob/main/pages/apple-1998.vue)| [Source code](https://github.com/lilisako/retro-web-ui/blob/main/pages/google-1999.vue) | [Source code](https://github.com/lilisako/retro-web-ui/blob/main/pages/microsoft-1996.vue) |
+|  **Netflix 2003** |  **Yahoo! 1996**  | |
+| <img width="300" alt="スクリーンショット 2022-03-28 20 41 15" src="https://user-images.githubusercontent.com/33516104/160390543-bb290c4c-e11c-489b-98f8-cdaacc5665ca.png"> | <img width="300" alt="スクリーンショット 2022-03-28 20 40 52" src="https://user-images.githubusercontent.com/33516104/160390489-d3e41811-6f7e-444d-b7a4-6f0e4134c8f2.png"> | |
+| [Source code](https://github.com/lilisako/retro-web-ui/blob/main/pages/netflix-2003.vue) | [Source code](https://github.com/lilisako/retro-web-ui/blob/main/pages/yahoo-1996.vue) | |
