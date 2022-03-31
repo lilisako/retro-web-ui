@@ -1,13 +1,28 @@
 <template>
   <div class="m-4 font-apple">
     <!-- header -->
-    <div>
-      <h1 class="text-3xl">
-        Web Design History
-      </h1>
-      <p>Explore the internet aesthetic</p>
+    <nuxt-link to="/" class="text-black no-underline">
+      <div class="flex items-end">
+        <h1 class="text-3xl font-bold">
+          Web Design History
+        </h1>
+        <img src="~/assets/imac.jpeg" width="50">
+      </div>
+    </nuxt-link>
+    <div class="items-center my-12 md:flex">
+      <div class="w-full text-center md:w-1/2">
+        <h2 class="text-5xl font-bold">
+          Explore the old websites aesthetic
+        </h2>
+        <br>
+        <p>Welcome to Web Design History! Explore the websites from the various range of eras! Please be aware that the demo websites only work on desktops/tablets and not on smartphones.</p>
+      </div>
+      <div class="w-full md:w-1/2">
+        <img src="~/assets/apple.png">
+      </div>
     </div>
     <!-- header -->
+    <hr class="my-8 border-black">
     <!-- body -->
     <div class="grid grid-cols-1 gap-4 my-6 md:grid-cols-2 lg:grid-cols-3">
       <div v-for="info of infos" :key="info.title" class="text-center">
@@ -30,6 +45,38 @@
       </div>
     </div>
     <!-- body -->
+    <hr class="my-16 border-black">
+    <div class="my-6">
+      <h2 class="text-4xl font-bold text-center">
+        About
+      </h2>
+      <p class="text-center">
+        How this works?
+      </p>
+      <div class="grid grid-cols-1 gap-4 my-12 text-center md:grid-cols-3">
+        <div>
+          <img src="~/assets/demo.png" width="80" class="my-2 mx-auto">
+          <h3 class="text-2xl font-bold">
+            Demo
+          </h3>
+          <p>Explore webistes from 90s to current with the demo website. Everything is build with Nuxt.js / TailwindCSS.</p>
+        </div>
+        <div>
+          <img src="~/assets/sourcecode.png" width="80" class="my-2 mx-auto">
+          <h3 class="text-2xl font-bold">
+            Source code
+          </h3>
+          <p>Want to learn how to code? I got u! Everything on this website is open source. You can visit and see on Github.</p>
+        </div>
+        <div>
+          <img src="~/assets/youtube.png" width="80" class="my-2 mx-auto">
+          <h3 class="text-2xl font-bold">
+            YouTube
+          </h3>
+          <p>I post a time-lapse coding video for every one of the demo site. Best way to support this project is subscribe to <a href="https://www.youtube.com/channel/UCkCENoTPAxDJ_EkBgO2vOWA" target="_blank">this channel!</a></p>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
