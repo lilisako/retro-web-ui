@@ -1,14 +1,6 @@
 <template>
   <div class="m-4 font-apple tracking-tight">
-    <!-- header -->
-    <nuxt-link to="/" class="text-black no-underline">
-      <div class="flex items-end">
-        <h1 class="text-3xl font-bold">
-          Web Design History
-        </h1>
-        <img src="~/assets/imac.jpeg" width="50">
-      </div>
-    </nuxt-link>
+    <retro-header />
     <div class="items-center my-12 md:flex">
       <div class="w-full text-center md:w-1/2">
         <h2 class="text-5xl font-bold">
@@ -81,7 +73,11 @@
 </template>
 
 <script>
+import RetroHeader from '~/components/retro-header'
 export default {
+  components: {
+    RetroHeader
+  },
   data: () => ({
     infos: [
       {
