@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     fontFamily: {
       google: ['Neonderthaw'],
-      apple: ["AppleGaramond"],
+      apple: ['AppleGaramond']
     }
   }
 }
