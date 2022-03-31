@@ -4,7 +4,8 @@ module.exports = {
   mode: 'jit',
   theme: {
     fontFamily: {
-      google: ['Neonderthaw']
+      google: ['Neonderthaw'],
+      apple: ["AppleGaramond"],
     }
   }
 }

@@ -1,5 +1,6 @@
 <template>
-  <div />
+  <div class="font-apple">
+  </div>
 </template>
 
 <script>

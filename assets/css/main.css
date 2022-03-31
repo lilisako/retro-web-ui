@@ -7,3 +7,9 @@
     @apply text-[#3633FF] underline
   }
 }
+
+@font-face {
+  font-family: AppleGaramond;
+  font-weight: 400;
+  src: url('~assets/fonts/apple_garamond/AppleGaramond.ttf') format('woff2')
+}
