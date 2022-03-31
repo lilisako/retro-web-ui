@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="Yahoo! 1996"/>
     <div>
       <div class="flex justify-center">
         <img src="~/assets/yahoo-1996/main2.gif">

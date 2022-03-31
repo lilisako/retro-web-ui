@@ -7,8 +7,15 @@
             Web Design History
           </h1>
           <img src="~/assets/imac.jpeg" width="50">
+          <p class="text-3xl" v-if="title">－{{ title }}</p>
         </div>
       </nuxt-link>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  props: ['title']
+}
+</script>

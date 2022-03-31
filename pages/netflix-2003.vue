@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="Netflix 2003"/>
     <div class="flex justify-center">
       <div class="w-[560px]">
         <div class="flex items-center">

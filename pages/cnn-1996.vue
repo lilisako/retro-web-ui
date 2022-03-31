@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="CNN 1996"/>
     <div>
       <div class="flex m-3">
         <div>

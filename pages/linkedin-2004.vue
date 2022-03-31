@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="LinkedIn 2004"/>
     <div class="h-screen bg-[#CCCCCC]">
       <div class="flex justify-center items-center">
         <img src="~/assets/linkedin-2004/logo_lg_notag.gif">

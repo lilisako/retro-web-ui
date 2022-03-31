@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="Google 1996"/>
     <div class="flex justify-center">
       <div class="my-[65px] text-center">
         <img src="~/assets/google-1999/google.jpg">

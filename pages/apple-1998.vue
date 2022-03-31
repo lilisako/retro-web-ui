@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="Apple 1998"/>
     <div class="mx-2 w-[600px]">
       <div class="flex items-start">
         <img src="~/assets/apple-1998/apple.gif">

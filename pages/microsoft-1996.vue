@@ -1,6 +1,6 @@
 <template>
   <div class="m-4">
-    <retro-header />
+    <retro-header title="Microsoft 1996"/>
     <div class="m-2">
       <div class="flex items-center">
         <img src="~/assets/microsoft-1996/33.gif">
