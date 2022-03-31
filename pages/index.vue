@@ -37,37 +37,9 @@
       </div>
     </div>
     <!-- body -->
-    <hr class="my-16 border-black">
-    <div class="my-6">
-      <h2 class="text-4xl font-bold text-center">
-        About
-      </h2>
-      <p class="text-center">
-        How this works?
-      </p>
-      <div class="grid grid-cols-1 gap-4 my-12 text-center md:grid-cols-3">
-        <div>
-          <img src="~/assets/demo.png" width="80" class="my-2 mx-auto">
-          <h3 class="text-2xl font-bold">
-            Demo
-          </h3>
-          <p>Explore webistes from 90s to current with the demo website. Everything is build with Nuxt.js / TailwindCSS.</p>
-        </div>
-        <div>
-          <img src="~/assets/sourcecode.png" width="80" class="my-2 mx-auto">
-          <h3 class="text-2xl font-bold">
-            Source code
-          </h3>
-          <p>Want to learn how to code? I got u! Everything on this website is open source. You can visit and see on Github.</p>
-        </div>
-        <div>
-          <img src="~/assets/youtube.png" width="80" class="my-2 mx-auto">
-          <h3 class="text-2xl font-bold">
-            YouTube
-          </h3>
-          <p>I post a time-lapse coding video for every one of the demo site. Best way to support this project is subscribe to <a href="https://www.youtube.com/channel/UCkCENoTPAxDJ_EkBgO2vOWA" target="_blank">this channel!</a></p>
-        </div>
-      </div>
+    <hr class="mt-16 mb-4 border-black">
+    <div class="text-center">
+      <p>Support this project by subscribing to <a href="https://www.youtube.com/channel/UCkCENoTPAxDJ_EkBgO2vOWA" target="_blank">my channel!</a></p>
     </div>
   </div>
 </template>
