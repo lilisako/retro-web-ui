@@ -1,5 +1,5 @@
 <template>
-  <div class="m-4 font-apple">
+  <div class="m-4 font-apple tracking-tight">
     <!-- header -->
     <nuxt-link to="/" class="text-black no-underline">
       <div class="flex items-end">
