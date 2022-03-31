@@ -1,6 +1,8 @@
 <template>
   <div class="m-4 font-apple tracking-tight">
-    <retro-header />
+    <div class="sticky top-0">
+      <retro-header />
+    </div>
     <div class="items-center my-12 md:flex">
       <div class="w-full text-center md:w-1/2">
         <h2 class="text-5xl font-bold">
