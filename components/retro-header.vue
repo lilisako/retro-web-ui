@@ -7,7 +7,9 @@
             Web Design History
           </h1>
           <img src="~/assets/imac.jpeg" width="50">
-          <p class="text-3xl" v-if="title">－{{ title }}</p>
+          <p v-if="title" class="text-3xl">
+            －{{ title }}
+          </p>
         </div>
       </nuxt-link>
     </div>
