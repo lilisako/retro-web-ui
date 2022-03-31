@@ -27,7 +27,7 @@
     <div class="grid grid-cols-1 gap-4 my-6 md:grid-cols-2 lg:grid-cols-3">
       <div v-for="info of infos" :key="info.title" class="text-center">
         <nuxt-link :to="info.demo">
-          <img :src="info.thumbnail" class="px-4 h-2/3">
+          <img :src="info.thumbnail" class="px-4">
         </nuxt-link>
         <nuxt-link :to="info.demo" class="text-2xl font-bold">
           {{ info.title }}
