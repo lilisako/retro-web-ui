@@ -28,7 +28,7 @@
         </nuxt-link>
         <div class="my-auto">
           <div class="text-center">
-            <a :href="'https://github.com/lilisako/retro-web-ui/blob/main/pages/' + info.demo + '.vue'" target="_blank" class="mx-1 underline">
+            <a :href="'https://github.com/lilisako/retro-web-ui/blob/main/components/' + info.demo + '.vue'" target="_blank" class="mx-1 underline">
               Source code
             </a>
             <a :href="info.youtube" target="_blank" class="mx-1 underline">
