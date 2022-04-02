@@ -56,31 +56,31 @@ export default {
     infos: [
       {
         title: 'Apple 1998',
-        thumbnail: 'https://user-images.githubusercontent.com/33516104/160389409-8e1e8343-ddfb-4e52-a04c-07f238604507.png',
+        thumbnail: 'https://user-images.githubusercontent.com/33516104/161384902-701b8cc1-09d5-4853-b678-51218e3ef1cb.png',
         demo: '/apple-1998',
         youtube: 'https://youtu.be/vMDGvlH-FME'
       },
       {
         title: 'google 1999',
-        thumbnail: 'https://user-images.githubusercontent.com/33516104/160389723-ca3a8172-d7a4-4c05-aaf0-6bd432277987.png',
+        thumbnail: 'https://user-images.githubusercontent.com/33516104/161384904-18a16404-4d55-4830-a00b-58585594da2f.png',
         demo: '/google-1999',
         youtube: 'https://youtu.be/CqSMhif7Yx4'
       },
       {
         title: 'microsoft 1996',
-        thumbnail: 'https://user-images.githubusercontent.com/33516104/160390047-a8aae9ce-4916-486c-adec-2619fbb6eef6.png',
+        thumbnail: 'https://user-images.githubusercontent.com/33516104/161384905-2707c22b-1a3a-4d26-88c7-c8b7eeef3f01.png',
         demo: '/microsoft-1996',
         youtube: 'https://youtu.be/wG9rMlj35pU'
       },
       {
         title: 'Netflix 2003',
-        thumbnail: 'https://user-images.githubusercontent.com/33516104/160390543-bb290c4c-e11c-489b-98f8-cdaacc5665ca.png',
+        thumbnail: 'https://user-images.githubusercontent.com/33516104/161384909-b9b46faf-75a7-4f32-8f3c-efefb7af0321.png',
         demo: '/netflix-2003',
         youtube: 'https://youtu.be/D6DknclWpqw'
       },
       {
         title: 'Yahoo! 1996',
-        thumbnail: 'https://user-images.githubusercontent.com/33516104/160390489-d3e41811-6f7e-444d-b7a4-6f0e4134c8f2.png',
+        thumbnail: 'https://user-images.githubusercontent.com/33516104/161384906-3be0e9e8-4491-4e28-a32b-97cb93ba8a23.png',
         demo: '/yahoo-1996',
         youtube: 'https://youtu.be/zY5t55Puzic'
       }
