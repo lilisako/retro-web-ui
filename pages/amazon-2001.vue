@@ -17,7 +17,7 @@
             </div>
           </div>
         </div>
-        <div class="flex w-full justify-cente">
+        <div class="flex justify-center w-full">
           <div class="w-full h-[28px] bg-[#03659A]" />
           <img src="~/assets/amazon-2001/gateway-default-friday.gif">
           <div class="w-full h-[28px] bg-[#03659A]" />
